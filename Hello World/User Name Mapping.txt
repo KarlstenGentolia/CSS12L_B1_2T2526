@@ -1,6 +1,0 @@
-Username: Name
-Krosnia - Asher Nathaniel S. Germono
-<<<<<<< HEAD
-KarlMaranan - Karl Sebastian T. Maranan
-=======
->>>>>>> 7a47e4ee9c4e2def91c96928a9c9db3641e06618
