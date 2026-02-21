@@ -5,3 +5,5 @@ if (age>=18):
 
 else:
 	print('You are a Minor')
+
+follow me on ig
